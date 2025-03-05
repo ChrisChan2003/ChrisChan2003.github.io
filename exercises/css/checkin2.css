@@ -1,0 +1,52 @@
+h1{
+    color: #000000;
+    background-color: #a3a850;
+    text-transform: uppercase;
+    font-size: 48px;
+    margin: 1.5rem;
+    padding: 1.5rem
+}
+h1 {
+    font-family: "Knewave", system-ui;
+    font-weight: normal;
+    font-style: normal;
+  }  
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #c6ca9c;
+}
+img{
+    float: right;
+    border: 2px #000000 solid;
+    margin: .65rem;
+    max-width: 100%;
+}
+figure figcaption{
+    text-align: right;
+}
+p{
+    margin: 2rem;
+    line-height: 1.5rem;
+}
+h2{
+    color: #000000;
+    background-color: #a3a850;
+    margin: 1.5rem;
+    padding: 1.5rem;
+}
+hr{
+    border: 3px dashed #65844d;
+    margin: 1.5rem;
+}
+
+a:link{
+    color:  #65844d;
+    text-decoration: none;
+}
+a:visited{
+    color: #56557d;
+}
+a:hover{
+    color: #7f7b2a;
+    text-decoration: underline;
+}
