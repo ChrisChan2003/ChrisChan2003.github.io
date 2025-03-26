@@ -1,0 +1,16 @@
+@media screen and (orientation: landscape){
+    li{
+        display: inline-block;
+        border: 2px blue solid;
+        margin: 100px;
+        padding: 10px;
+        height: 20px;}
+}
+@media screen and (orientation: portrait){
+    li{
+        display: inline-block;
+        border: 2px black solid;
+        margin: 100px;
+        padding: 10px;
+        height: 20px;}
+}
