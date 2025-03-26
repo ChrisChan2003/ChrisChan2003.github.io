@@ -1,0 +1,7 @@
+li{
+    display: inline-block;
+    border: 2px black solid;
+    margin: 100px;
+    padding: 10px;
+    height: 20px;
+}
