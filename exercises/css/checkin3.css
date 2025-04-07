@@ -1,0 +1,104 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+
+.row1{
+    border: 2px solid black;
+    display: grid;
+    grid-template-rows: 10vh; 
+    grid-template-columns: 1fr
+}
+
+header{
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    font-size: xx-large;
+    color: white;
+    background-color: blue;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+.row2{
+    border: 2px solid black;
+    display: grid;
+    grid-template-rows: 40vh; 
+    grid-template-columns: 1fr 1fr
+}
+
+.emptyspaceleft{
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    color: white;
+    background-color: black;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.emptyspaceright{
+    background-color: white;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    min-width: 0;
+    min-height: 0;
+}
+
+.row3{
+    border: 2px solid black;
+    display: grid;
+    grid-template-rows: 50vh;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.bottomleft{
+    padding: 15px;
+    background-color: cyan;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.bottommiddle{
+    background-color: pink;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    min-width: 0;
+    min-height: 0;
+}
+
+.bottomright{
+    padding: 15px;
+    background-color: cyan;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+.toast{
+    float: right; 
+    margin: 0.5px;
+    border: 1px white solid;
+    max-width: 100%
+}
