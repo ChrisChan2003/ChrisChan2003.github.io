@@ -249,9 +249,6 @@ input{
     border-color: #040504;
     margin-bottom: 20px;
 }
-label{
-    color: white;
-}
 textarea{
     background-color: white;
     width: 70%;
@@ -296,6 +293,9 @@ button:hover{
     align-content: center;
     justify-content: center;
     border: 1px solid #040504;
+}
+label{
+    color: white;
 }
 /*Resume*/
 .resume{
