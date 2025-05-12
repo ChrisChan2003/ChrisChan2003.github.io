@@ -391,7 +391,7 @@ button:hover{
     border: 1px solid #040504;
 }
 .rheading a:link{
-    color: #1e90ff;
+    color: #19b5fe;
 }
 .rheading a:visited{
     color: #407f7f;
@@ -450,7 +450,7 @@ label{
     border: 1px solid #040504;
 }
 .writing a:link{
-    color: #1e90ff;
+    color: #19b5fe;
 }
 .writing a:visited{
     color: #407f7f;
@@ -494,7 +494,7 @@ label{
     margin-right: 2rem;
 }
 .exercises a:link{
-    color: #1e90ff;
+    color: #19b5fe;
 }
 .exercises a:visited{
     color: #407f7f;
