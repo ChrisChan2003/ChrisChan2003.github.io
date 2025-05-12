@@ -119,7 +119,7 @@ footer li{
     margin: 10px;
 }
 .linkedin{
-    color: #0077B5;
+    color: #52b3d9;
     font-size: 20px;
 }
 .linkedin:hover{
@@ -190,7 +190,7 @@ footer li{
     height: auto;
     max-width: 100%;
 }
-.headshot > figcaption{
+figcaption{
     text-align: center;
     color: white;
 }
