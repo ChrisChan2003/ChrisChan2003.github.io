@@ -249,6 +249,9 @@ input{
     border-color: #040504;
     margin-bottom: 20px;
 }
+label{
+    color: white;
+}
 textarea{
     background-color: white;
     width: 70%;
