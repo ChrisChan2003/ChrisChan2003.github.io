@@ -190,6 +190,10 @@ footer li{
     height: auto;
     max-width: 100%;
 }
+.headshot > figcaption{
+    text-align: center;
+    color: white;
+}
 .aboutme > footer{
     background-color: #040504;
     margin: 0;
