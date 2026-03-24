@@ -15,8 +15,11 @@ There are three major factors to consider when creating content online with acce
 2. Universal design
 3. Web Content Accessibility Guidelines (**WCAG**)
 ---
+### Disability models
 The social model of disability addresses accessibility. Opposed to the medical model, the social model views disabilities as a spectrum and seeks to 
 
+### Universal design
 Universal design is a method of integrating accessibility that addresses the needs of both people with and without disabilities. 
 
+### Web Content Accessibility Guidelines (**WCAG**)
 The Web Content Accessibility Guidelines (**WCAG**) are regulations about the minimum level of accessibility online content must achieve.
