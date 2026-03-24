@@ -16,7 +16,7 @@ There are three major factors to consider when creating content online with acce
 3. Web Content Accessibility Guidelines (**WCAG**)
 ---
 ### Disability models
-The social model of disability addresses accessibility in all settings. Opposed to the medical model, the social model views disabilities as a spectrum. This model relies on working with and understanding the audience to seek the most accessible and comfortable user experience. 
+The social model of disability addresses accessibility in all settings. The social model believes in both the shortcomings of society in respect of disability, and the abilities and capabilities of people with disabilities themselves. Opposed to the medical model, the social model views disabilities as a spectrum. This model relies on working with and understanding the audience to seek the most accessible and comfortable user experience. 
 
 ### Universal design
 Universal design is a method of integrating accessibility that addresses the needs of both people with and without disabilities. This might look like a ramp and stair combination at the front entrance of a building which both people with disabilities and people without disabilities can use with ease and comfort. While some buildings miight add an accessible entrance to the back of the building, this solution integrates both people with and without disabilities which creates a more desirable and cohesive design.
