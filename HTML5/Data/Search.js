@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Introduction-Topics/Accessibility-standards.htm'],s:['0'],p:[['0',5],['methods',1]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Introduction-Topics/About.htm'],s:['+','larger'],p:[['+',23],['but',3],['erat',29],['language',14],['products',5],['them',17],['writing',3]]});
